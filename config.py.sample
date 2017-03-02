@@ -1,0 +1,7 @@
+P4_PORT = ':1666'
+P4_USER = 'username'
+P4_PASSWD = 'passwd'
+
+DEFAULT_DEPOT_PATH = '//depot/%(branch)s/path/%(repo)s'
+DEFAULT_REPO = 'repo'
+DEFAULT_BRANCH = 'dev'
